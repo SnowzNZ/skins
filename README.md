@@ -1,2 +1,3 @@
-# skins
-My osu! skins.
+# Snowz' osu! Skins
+
+## Snowz Galaxy
