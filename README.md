@@ -1,3 +1,3 @@
 # Snowz' osu! Skins
 
-## Snowz Galaxy
+## [Snowz Galaxy](https://github.com/SnowzNZ/skins/raw/main/Snowz%20Tourney.osk)
